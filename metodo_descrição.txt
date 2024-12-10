@@ -1,0 +1,47 @@
+### **Método** **Descrição**  
+
+- **capitalize()**: Converte o primeiro caractere em maiúscula.  
+- **casefold()**: Converte a string para letras minúsculas.  
+- **center()**: Retorna uma string centralizada.  
+- **count()**: Retorna o número de vezes que um valor especificado ocorre em uma string.  
+- **encode()**: Retorna uma versão codificada da string.  
+- **endswith()**: Retorna `True` se a string terminar com o valor especificado.  
+- **expandtabs()**: Define o tamanho do caractere de tabulação na string.  
+- **find()**: Procura um valor especificado na string e retorna a posição onde foi encontrado.  
+- **format()**: Formata valores especificados em uma string.  
+- **format_map()**: Formata valores especificados em uma string.  
+- **index()**: Procura um valor especificado na string e retorna a posição onde foi encontrado.  
+- **isalnum()**: Retorna `True` se todos os caracteres na string forem alfanuméricos.  
+- **isalpha()**: Retorna `True` se todos os caracteres na string forem letras.  
+- **isascii()**: Retorna `True` se todos os caracteres na string forem caracteres ASCII.  
+- **isdecimal()**: Retorna `True` se todos os caracteres na string forem decimais.  
+- **isdigit()**: Retorna `True` se todos os caracteres na string forem dígitos.  
+- **isidentifier()**: Retorna `True` se a string for um identificador válido.  
+- **islower()**: Retorna `True` se todos os caracteres na string forem letras minúsculas.  
+- **isnumeric()**: Retorna `True` se todos os caracteres na string forem numéricos.  
+- **isprintable()**: Retorna `True` se todos os caracteres na string forem imprimíveis.  
+- **isspace()**: Retorna `True` se todos os caracteres na string forem espaços em branco.  
+- **istitle()**: Retorna `True` se a string seguir as regras de um título (cada palavra começa com maiúscula).  
+- **isupper()**: Retorna `True` se todos os caracteres na string forem letras maiúsculas.  
+- **join()**: Junta os elementos de um iterável ao final da string.  
+- **ljust()**: Retorna uma versão da string justificada à esquerda.  
+- **lower()**: Converte a string para letras minúsculas.  
+- **lstrip()**: Retorna uma versão da string sem os espaços à esquerda.  
+- **maketrans()**: Retorna uma tabela de tradução a ser usada em traduções.  
+- **partition()**: Retorna uma tupla onde a string é dividida em três partes.  
+- **replace()**: Retorna uma string onde um valor especificado é substituído por outro valor especificado.  
+- **rfind()**: Procura um valor especificado na string e retorna a última posição onde foi encontrado.  
+- **rindex()**: Procura um valor especificado na string e retorna a última posição onde foi encontrado.  
+- **rjust()**: Retorna uma versão da string justificada à direita.  
+- **rpartition()**: Retorna uma tupla onde a string é dividida em três partes.  
+- **rsplit()**: Divide a string no separador especificado e retorna uma lista.  
+- **rstrip()**: Retorna uma versão da string sem os espaços à direita.  
+- **split()**: Divide a string no separador especificado e retorna uma lista.  
+- **splitlines()**: Divide a string em quebras de linha e retorna uma lista.  
+- **startswith()**: Retorna `True` se a string começar com o valor especificado.  
+- **strip()**: Retorna uma versão da string sem os espaços em branco do início e do final.  
+- **swapcase()**: Inverte as letras maiúsculas para minúsculas e vice-versa.  
+- **title()**: Converte o primeiro caractere de cada palavra para maiúscula.  
+- **translate()**: Retorna uma string traduzida.  
+- **upper()**: Converte a string para letras maiúsculas.  
+- **zfill()**: Preenche a string com um número especificado de zeros no início.  

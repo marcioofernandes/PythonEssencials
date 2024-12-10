@@ -71,7 +71,7 @@ myfunc()
 
 print("Python is " + x)
 
-# alterando a plavra chave dentro da função 
+# alterando a palavra chave dentro da função 
 
 x = "awesome"
 
