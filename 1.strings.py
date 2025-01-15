@@ -1,3 +1,8 @@
+'''O que são strings 
+'''
+
+
+
 texto = "Aula PycodeBR" #Cada caractere é indicado por um número começando com o Zero
 #Você pode retornar um intervalo de caracteres usando a sintaxe de fatia
 #Especifique o índice inicial e o índice final, separados por dois pontos, para retornar uma parte da string.

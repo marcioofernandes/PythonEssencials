@@ -1,3 +1,13 @@
+
+""" 
+    Tenho uma lista com objetos? Executa o FOR. 
+    Possuo uma condição que preciso repetir ela, utiliza o WHILE 
+"""
+
+
+# FOR 
+# [ expressão + For + Condição (opcional)]
+
 """Usado para criar laços de repetição para usos especificos"""
 
 lista = [21,45,17,28] # Declara a lista
@@ -17,15 +27,10 @@ for valor in lista:
     posicao += 1 
 
 
-
-
-
 """Classe RANGE > gera sequencias numericas em progressao aritmética"""
 
 list (range(4, 20, 3)) # primeiro valor: por onde começar 4, segundo valor: até onde o range vai 20, terceiro valor: de quantos em quantos valores ele vai pular 3 
 # range(start, stop, step)
-
-
 
 
 """compreensão de listas - é um recurso onde você consegue aplicar uma expressão ou função para cada um dos itens de uma lista, retornando assim uma nova lista com os itens alterados. """
@@ -53,4 +58,18 @@ print (nomes_maiusculos)
 nomes_maiusculos = [nome.upper() for nome in lista2 if nome [0] == "M"] #compreensão de lista com condicional 
 print (nomes_maiusculos)
 
-# [ empressão + For + Condição (opcional)]
+
+"""------------------------------------------------------------------------------"""
+
+
+
+# WHILE 
+
+numero = 0 
+
+while numero <=10: 
+    if numero == 2: 
+        break
+    numero = numero + 1 
+    print (numero)
+

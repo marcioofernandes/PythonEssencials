@@ -1,14 +1,15 @@
-""" Resumo da Estrutura
-
-Definição de Funções: Começa com def.
-
-Argumentos: Informações que a função usa para funcionar.
-
-Tipos de Argumentos:
-Simples, nomeados, variáveis (*), ou palavras-chave (**).
-
-Retorno: Use return para devolver um valor.
-"""
+"""  Funcões: Entendendo a estrutura de uma função
+- Funções são blocos de código que são executados quando chamados. 
+- Elas podem aceitar argumentos e retornar valores.
+- As funções são definidas usando a palavra-chave def.
+- Os argumentos são passados para a função entre parênteses.
+- O corpo da função é indentado.
+- Use a palavra-chave return para devolver um valor.
+- As funções podem ser chamadas várias vezes.
+- As funções podem ser passadas como argumentos para outras funções.
+- Argumentos podem ser passados como palavras-chave.
+- Argumentos podem ser variáveis.
+- Argumentos de palavras-chave podem ser variáveis. """
 # 1. Funções são uma máquina de tarefas, que executa uma ação especifica quando é chamada. 
 
 def diga_ola(): 
@@ -18,7 +19,7 @@ diga_ola()
 """ -------------------------------------------------------------------------------------------"""
 # 2. Funções sem argumentos 
 
-def mostre_boas_vindas (): # São funções que n"ao precisam de informações exernas para funcionar. 
+def mostre_boas_vindas (): # São funções que não precisam de informações exernas para funcionar. 
     print ("Bem vindo ao entendimento das funções")
 
 mostre_boas_vindas () 
